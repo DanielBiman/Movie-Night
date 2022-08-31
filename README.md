@@ -34,7 +34,7 @@ The key technical requirements are as follows:
 
  
 
-    [ ] Must use Spring Framework to create a wholly self-contained artifact, built by Maven. 
+    - [ ] Must use Spring Framework to create a wholly self-contained artifact, built by Maven. 
 
     - [x] Must compile in Java 8. A later runtime is perfectly acceptable, but compilation must be in Java 8.
 
