@@ -36,9 +36,9 @@ The key technical requirements are as follows:
 
     • Must use Spring Framework to create a wholly self-contained artifact, built by Maven. 
 
-    • Must compile in Java 8. A later runtime is perfectly acceptable, but compilation must be in Java 8.
+    - [X] Must compile in Java 8. A later runtime is perfectly acceptable, but compilation must be in Java 8.
 
-    • Must be within a git repository (remote not necessary, use own judgement on commit strategy).
+    - [X] Must be within a git repository (remote not necessary, use own judgement on commit strategy).
 
     • Must persist data across application restarts (may persist outside the runnable artifact) using an RDBMS with appropriate model relationships. 
 
