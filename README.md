@@ -34,7 +34,7 @@ The key technical requirements are as follows:
 
  
 
-    - [ ] Must use Spring Framework to create a wholly self-contained artifact, built by Maven. 
+    - [x] Must use Spring Framework to create a wholly self-contained artifact, built by Maven. 
 
     - [x] Must compile in Java 8. A later runtime is perfectly acceptable, but compilation must be in Java 8.
 
@@ -42,9 +42,9 @@ The key technical requirements are as follows:
 
     - [ ] Must persist data across application restarts (may persist outside the runnable artifact) using an RDBMS with appropriate model relationships. 
 
-    • Must allow data manipulation via REST.
+    - [ ] Must allow data manipulation via REST.
 
-    • Must contain an appropriate level of Unit Test coverage (use own judgment in defining "appropriate"). 
+    - [ ] Must contain an appropriate level of Unit Test coverage (use own judgment in defining "appropriate"). 
 
-    • Must provide documentation to describe application functionality (JavaDoc, UML diagrams and/or text based documentation is acceptable, again, use own judgement). 
+    - [ ] Must provide documentation to describe application functionality (JavaDoc, UML diagrams and/or text based documentation is acceptable, again, use own judgement). 
 
