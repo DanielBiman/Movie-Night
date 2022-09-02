@@ -1,5 +1,9 @@
 # Movie-Night
 
+This project can be started by running Movie-Night/Moviedemo/src/main/java/com/example/Moviedemo/MoviedemoApplication.java in your IDE.
+The first commit added a project which started, without pages though.
+The current version has issues with connecting to MySQL.
+
 Please return a git repository (either by compressed archive attached to an email, or publicly accessible link - for example, on GitHub) before Friday 2nd September - this code submission will form the basis for the technical discussion during an interview.
 
  
